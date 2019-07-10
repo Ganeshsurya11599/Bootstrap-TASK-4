@@ -1,0 +1,167 @@
+*{
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden !important;
+}
+.img{
+	position: absolute;
+	left: 0;
+	right: 0;
+	z-index: 1;
+	top:0px;
+}
+.p1{
+	overflow-y: hidden;
+	font-family: helventica;
+	font-size: 30px;
+}
+.img1{
+	position: relative;
+}
+.list{
+	list-style-type: none;
+	margin-left: 30%;
+}
+p{
+	font-size: 40px;
+	font-family:roboto,helvantica,arial,san-serif;
+}
+.p{
+	font-size: 10px;
+	font-family:roboto,helvantica,arial,san-serif;
+}
+.para{
+	font-size: 30px;
+	color: white;
+	margin-left: 25%;
+}
+.button{
+	margin-left: 40%;
+}
+.para1{
+	font-family: roboto,helvantica,arial,san-serif;
+	font-weight: bold;
+	font-size: 14px;
+	opacity: 0.5;
+}
+.para2{
+	font-size: 25px;
+	font-family: roboto,helvantica,arial,san-serif;
+	opacity: 0.5;
+}
+#div{
+	background-color: #fff;
+	height: 250px;
+	width: 200px;
+	border-radius: 5px;
+}
+.color{
+	background-color: #E5E5E5;
+}
+.social-links{
+ 	    text-align: center;
+ 	    margin-left: 20%;
+ 	    margin-top: 10%;
+    width: 120px;
+    height: 120px;
+    border: 1px solid #909090;
+    border-radius: 100%;
+    display: flex;
+ }
+ .image{
+ 	font-size: 50px;
+ 	color: black;
+ }
+ .social-links a{
+ 	margin-left: 27%;
+ 	margin-top: 30px;
+ }
+ .para3{
+ 	font-size: 20px;
+ 	font-weight: bold;
+ }
+ .para4{
+ 	font-size: 15px;
+ }
+ .para5{
+ 	font-size: 30px;
+ }
+ .color1{
+ 	background-color: darkviolet;
+ 	border-radius: 50px;
+ 	color: white;
+ 	padding: 5px;
+ 	width: 20%;
+ 	border:0;
+ }
+ label{
+ border:1px solid black;
+ font-size: 30px;
+ }
+ .design{
+ 	font-size: 50px;
+ 	margin-left: 30%;
+ }
+ .para6{
+ 	font-size: 20px;
+ 	font-weight: normal;
+ 	overflow-y: hidden;
+ }
+ .para7{
+ 	font-size: 13px;
+ }
+ .container {
+    width: 1170px;
+}
+.image1{
+	border-radius: 50px;
+	margin-top: 50px;
+	height: 100px;
+	width: 100px;
+	margin-left: 45%;
+}
+.para8{
+	font-size: 20px;
+	color: white;
+	width: 30%;
+	margin-left: 35%;
+	margin-top: 20px;
+}
+h5{
+	overflow-y: hidden;
+}
+.para9{
+	font-size: 15px;
+	font-family: calibri;
+}
+.div{
+	display: flex;
+	margin-left: 45%;
+}
+.image2{
+	font-size: 30px;
+	color: white;
+}
+h4{
+	overflow-y: hidden;
+}
+h6{
+	overflow-y: hidden;
+}
+.para10{
+	font-size: 15px;
+	font-family: arial,helventica,san-serif;
+	width: 100%;
+	margin-left: 10%;
+	margin-top: -7%;
+}
+.para11{
+	font-size: 15px;
+	font-family: arial,helventica,san-serif;
+	width: 100%;
+	margin-left: 10%;
+	margin-top: -9%;
+}
+.back{
+	background-color: #E5E5E5;
+}

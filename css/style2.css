@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+}
+.para1{
+	font-size: 30px;
+	overflow-y: hidden;
+}
+.img{
+	overflow-y: hidden;
+}
+h1{
+	overflow-y: hidden;
+}
+.para{
+	font-size: 25px;
+	overflow-y: hidden;
+}

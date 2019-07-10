@@ -1,0 +1,80 @@
+*{
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+}
+.img{
+	overflow-y: hidden;
+}
+h1{
+	overflow-y:hidden;
+}
+.margin{
+	margin-left: 5%;
+}
+.lab{
+	padding: 20px;
+	width: 100%;
+	background-color: lightgray;
+	font-size: 30px;
+	border-radius: 10px;
+	color: black;
+	font-weight: bold;
+	margin-top: 8%;
+}
+.lab1{
+	padding: 20px;
+	width: 100%;
+	background-color: lightgray;
+	font-size: 18px;
+	border-radius: 10px;
+	color: black;
+	font-weight:bold;
+	margin-top: 8%;
+}
+.lab2{
+	padding: 10px;
+	width: 100%;
+	background-color: lightgray;
+	border-radius: 10px;
+	color: black;
+	margin-top: 8%;
+}
+ul{
+	list-style-type: none;
+}
+.card{
+	width:300px;
+	margin-top: 3%;
+}
+.image{
+	height: 50px;
+	width: 50px;
+}
+.para4{
+ 	font-size: 15px;
+ }
+ .para9{
+	font-size: 15px;
+	font-family: calibri;
+}
+.para10{
+	font-size: 15px;
+	font-family: arial,helventica,san-serif;
+	width: 100%;
+	margin-left: 10%;
+	margin-top: -7%;
+}
+.para11{
+	font-size: 15px;
+	font-family: arial,helventica,san-serif;
+	width: 100%;
+	margin-left: 10%;
+	margin-top: -9%;
+}
+.style{
+	overflow-y: hidden;
+}
+.back{
+	background-color: #dff0d8;
+}
